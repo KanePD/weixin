@@ -1,4 +1,5 @@
 <?php
+echo "test123";
 /*
     方倍工作室
     http://www.fangbei.org/
